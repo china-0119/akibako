@@ -1,0 +1,11 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F1E9D8"/>
+  <rect x="30" y="30" width="340" height="240" fill="#FFFFFF" rx="15"/>
+  <circle cx="120" cy="120" r="30" fill="#E67926"/>
+  <circle cx="200" cy="120" r="30" fill="#264F34"/>
+  <circle cx="280" cy="120" r="30" fill="#E67926"/>
+  <rect x="80" y="180" width="80" height="40" fill="#264F34" rx="8"/>
+  <rect x="180" y="180" width="80" height="40" fill="#E67926" rx="8"/>
+  <rect x="280" y="180" width="80" height="40" fill="#264F34" rx="8"/>
+  <text x="200" y="250" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#264F34">日替わり弁当</text>
+</svg>

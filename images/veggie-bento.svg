@@ -1,0 +1,14 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="300" fill="#F1E9D8"/>
+  <rect x="30" y="30" width="340" height="240" fill="#FFFFFF" rx="15"/>
+  <circle cx="100" cy="100" r="20" fill="#28a745"/>
+  <circle cx="150" cy="100" r="20" fill="#ffc107"/>
+  <circle cx="200" cy="100" r="20" fill="#dc3545"/>
+  <circle cx="250" cy="100" r="20" fill="#17a2b8"/>
+  <circle cx="300" cy="100" r="20" fill="#28a745"/>
+  <rect x="80" y="140" width="50" height="25" fill="#28a745" rx="5"/>
+  <rect x="140" y="140" width="50" height="25" fill="#ffc107" rx="5"/>
+  <rect x="200" y="140" width="50" height="25" fill="#dc3545" rx="5"/>
+  <rect x="260" y="140" width="50" height="25" fill="#17a2b8" rx="5"/>
+  <text x="200" y="200" text-anchor="middle" font-family="Arial, sans-serif" font-size="16" fill="#264F34">野菜弁当</text>
+</svg>
